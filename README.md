@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=theme)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzzgabriel&layout=compact&theme=blueberry)
 <!--
 These will show my stats, I'll try to improve them til there
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzzgabriel&show_icons=true&theme=blueberry)

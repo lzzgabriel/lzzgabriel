@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=theme)
+<!--
+These will show my stats, I'll try to improve them til there
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzzgabriel&show_icons=true&theme=blueberry)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lzzgabriel&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!--
+
 **lzzgabriel/lzzgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

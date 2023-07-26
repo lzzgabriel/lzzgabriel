@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Android
 - 👯 I’m looking to collaborate on Java projects
-- 📫 How to reach me: DM me [Instagram](https://instagram.com/gabrielh.developer?igshid=MzNlNGNkZWQ4Mg==)
+- 📫 How to reach me: DM me at [Instagram](https://instagram.com/gabrielh.developer?igshid=MzNlNGNkZWQ4Mg==)
 <!--
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzzgabriel&layout=compact&theme=blueberry)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzzgabriel&show_icons=true&theme=blueberry)

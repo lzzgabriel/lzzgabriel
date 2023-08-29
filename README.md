@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Java Web Front and Back
 - 👯 I’m looking to collaborate on Java projects
 - 📫 How to reach me: DM me at [Instagram](https://instagram.com/gabrielh.developer?igshid=MzNlNGNkZWQ4Mg==)
 

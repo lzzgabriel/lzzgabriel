@@ -1,9 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🌱 I’m currently learning Java Web Front and Back
 - 👯 I’m looking to collaborate on Java projects
 - 📫 How to reach me: DM me at [Instagram](https://instagram.com/gabrielh.developer?igshid=MzNlNGNkZWQ4Mg==)
 
+## Current Projects
+<a href="https://github.com/lzzgabriel/stu">
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=lzzgabriel&repo=stu&show_owner=true&theme=github_dark" alt="lzzgabriel" />
 <!--
 <div>
 <a href="https://github.com/lzzgabriel">

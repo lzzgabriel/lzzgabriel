@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there, it's Gabriel 👋
+I'm a junior web developer working with Java and learning new things everyday!
+## Languages and Tools:
+<img src="https://www.svgrepo.com/show/452234/java.svg" width="50" height="50"><img src="https://www.svgrepo.com/show/354565/wildfly.svg" width="75" height="50"><img src="https://www.svgrepo.com/show/354454/tomcat.svg" width="50" height="50"><img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="50" height="50"><img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="50" height="50"><img src="https://www.svgrepo.com/show/452210/git.svg" width="50" height="50">
 - 🌱 I’m currently learning Java Web Front and Back
 - 👯 I’m looking to collaborate on Java projects
 - 📫 How to reach me: DM me at [Instagram](https://instagram.com/gabrielh.developer?igshid=MzNlNGNkZWQ4Mg==)

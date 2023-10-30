@@ -1,10 +1,20 @@
 ## Hi there, it's Gabriel 👋
 I'm a junior web developer working with Java and learning new things everyday!
-## Languages and Tools:
-<img title="Java" src="https://www.svgrepo.com/show/452234/java.svg" width="50" height="50"><img title="Wildfly" src="https://www.svgrepo.com/show/354565/wildfly.svg" width="75" height="50"><img title="Tomcat" src="https://www.svgrepo.com/show/354454/tomcat.svg" width="50" height="50"><img title="Eclipse IDE" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="50" height="50"><img title="PostgreSQL" src="https://www.svgrepo.com/show/354200/postgresql.svg" width="50" height="50"><img title="Git" src="https://www.svgrepo.com/show/452210/git.svg" width="50" height="50">
+
 - 🌱 I’m currently learning Java Web Front and Back
 - 👯 I’m looking to collaborate on Java projects
 - 📫 How to reach me: DM me at [Instagram](https://instagram.com/gabrielh.developer?igshid=MzNlNGNkZWQ4Mg==)
+## Languages and Tools:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 ## Current Projects
 <a href="https://github.com/lzzgabriel/stu">

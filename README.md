@@ -1,9 +1,10 @@
 ## Hi there, it's Gabriel 👋
 I'm a junior web developer working with Java and learning new things everyday!
 
-- 🌱 I’m currently learning Java Web Front and Back
+- 🌱 I’m currently learning Java for Web Development and REST API
 - 👯 I’m looking to collaborate on Java projects
-- 📫 How to reach me: DM me at [Instagram](https://instagram.com/gabrielh.developer?igshid=MzNlNGNkZWQ4Mg==)
+- 📫 How to reach me:<br>
+  [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/gabriel-lezo-0078051b5/) [<img height="32" width="32" src="https://cdn.simpleicons.org/instagram" />](https://instagram.com/gabrielh.developer?igshid=MzNlNGNkZWQ4Mg==)
 ## Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)

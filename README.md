@@ -18,11 +18,11 @@ I'm a junior web developer working with Java and learning new things everyday!
 
 ## Current Projects
 <a href="https://github.com/lzzgabriel/stu">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=lzzgabriel&repo=stu&show_owner=true&theme=github_dark" alt="lzzgabriel" />
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=lzzgabriel&repo=stu&show_owner=true&theme=dracula" alt="lzzgabriel" />
 
 ## Stats
 <div>
 <a href="https://github.com/lzzgabriel">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzzgabriel&layout=compact&langs_count=7&theme=github_dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lzzgabriel&show_icons=true&theme=github_dark" alt="lzzgabriel" />
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzzgabriel&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lzzgabriel&theme=dracula&hide_border=false"/>
 </div>

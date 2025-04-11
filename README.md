@@ -1,7 +1,7 @@
 ## Hi there, it's Gabriel 👋
 I'm a junior web developer working with Java and learning new things everyday!
 
-- 🌱 I’m currently learning Svelte
+- 🌱 I’m currently learning Svelte / Scala / Go
 - 👯 I’m looking to collaborate on Java/Kotlin projects
 - 📫 How to reach me:<br>
   [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/gabriel-lezo-0078051b5/) [<img height="32" width="32" src="https://cdn.simpleicons.org/instagram" />](https://instagram.com/gabrielh.developer?igshid=MzNlNGNkZWQ4Mg==)

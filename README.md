@@ -16,15 +16,3 @@ I'm a junior web developer working with Java and learning new things everyday!
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?&logo=eclipse&logoColor=2C2255&labelColor=white)
 ![Intellij](https://img.shields.io/badge/Intellij_IDEA-000000?&logo=intellijidea&logoColor=black&labelColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=6DB33F&labelColor=white)
-
-
-## Current Projects
-<a href="https://github.com/lzzgabriel/stu">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=lzzgabriel&repo=stu&show_owner=true&theme=dracula" alt="lzzgabriel" />
-
-## Stats
-<div>
-<a href="https://github.com/lzzgabriel">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzzgabriel&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lzzgabriel&theme=dracula&hide_border=false"/>
-</div>
